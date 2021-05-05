@@ -17,7 +17,9 @@ class Deciduous extends Tree {
     this.name = name
   }
   
-  
+  class definition(){
+    return `${}`
+  }
 }
 
 
